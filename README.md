@@ -1,7 +1,11 @@
-# Advance_Shopping_cart
-Advanced Shopping Cart Tutorial With Php and MySqli Database
+# Do this please 
+ Shopping Cart Tutorial With Php and MySqli Database
 
 Before you execute this project make sure you insert values in the database.
+(optional way of doing it)
+open localhost/phpmyadmin
+refresh the page if database name called "Producttb" isn't created
+Go to sql and then insert the command and click on Go. 
 to insert values in the database just type this command.
 
 ```sql
